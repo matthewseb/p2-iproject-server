@@ -317,6 +317,7 @@ class Controller {
             next(err)
         }
     }
+
 }
 
 module.exports = Controller
