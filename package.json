@@ -1,7 +1,7 @@
 {
   "name": "iproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "Individual Project - Server",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -20,5 +20,14 @@
     "pg": "^8.7.3",
     "sequelize": "^6.21.0",
     "sequelize-cli": "^6.4.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewseb/p2-iproject-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewseb/p2-iproject-server/issues"
+  },
+  "homepage": "https://github.com/matthewseb/p2-iproject-server#readme"
 }
